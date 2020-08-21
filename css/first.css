@@ -1,0 +1,30 @@
+.first{
+    width: 1520px;
+    margin: 100px auto;
+    /* border: 1px rebeccapurple solid; */
+
+}
+.first .L111{
+    width: 850px;
+    height: 100px;
+    margin: 0 auto;
+    /* border: 1px rebeccapurple solid; */
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    width: 850px;
+    margin: 0 auto;
+}
+.first .L222{
+    font-size: 50px;
+    font-family: sans-serif,'Arial Narrow',Arial,'Franklin Gothic Medium';
+    margin-left: 100px;
+    margin-bottom: 35px;
+}
+.first .L333{
+    font-size: 50px;
+    font-family: sans-serif,'Arial Narrow',Arial,'Franklin Gothic Medium';
+
+}
